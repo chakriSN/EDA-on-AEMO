@@ -1,1 +1,1 @@
-# EDA-on-AEMO
+# EDA-on-AMEO
